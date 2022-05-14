@@ -1,7 +1,12 @@
+name: Build & deploy
+
 on:
   push:
-    tags:
-      - '*'
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
@@ -27,3 +32,5 @@ jobs:
         with:
           name: react-github-actions-build
           path: build
+      - name: deploy to page
+        run: npm run deploy
