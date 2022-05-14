@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontreactwebapp/static/css/main.e6bf526f.css",
-    "main.js": "/frontreactwebapp/static/js/main.4de23a50.js",
+    "main.js": "/frontreactwebapp/static/js/main.0feb99c3.js",
     "react-syntax-highlighter/refractor-core-import.js": "/frontreactwebapp/static/js/react-syntax-highlighter/refractor-core-import.2f853cff.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/frontreactwebapp/static/js/react-syntax-highlighter_languages_refractor_abap.fd6dc57f.chunk.js",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/frontreactwebapp/static/js/react-syntax-highlighter_languages_refractor_actionscript.e956bede.chunk.js",
@@ -156,7 +156,7 @@
     "react-syntax-highlighter_languages_refractor_yaml.js": "/frontreactwebapp/static/js/react-syntax-highlighter_languages_refractor_yaml.087a879b.chunk.js",
     "index.html": "/frontreactwebapp/index.html",
     "main.e6bf526f.css.map": "/frontreactwebapp/static/css/main.e6bf526f.css.map",
-    "main.4de23a50.js.map": "/frontreactwebapp/static/js/main.4de23a50.js.map",
+    "main.0feb99c3.js.map": "/frontreactwebapp/static/js/main.0feb99c3.js.map",
     "refractor-core-import.2f853cff.chunk.js.map": "/frontreactwebapp/static/js/react-syntax-highlighter/refractor-core-import.2f853cff.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.fd6dc57f.chunk.js.map": "/frontreactwebapp/static/js/react-syntax-highlighter_languages_refractor_abap.fd6dc57f.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.e956bede.chunk.js.map": "/frontreactwebapp/static/js/react-syntax-highlighter_languages_refractor_actionscript.e956bede.chunk.js.map",
@@ -312,6 +312,6 @@
   },
   "entrypoints": [
     "static/css/main.e6bf526f.css",
-    "static/js/main.4de23a50.js"
+    "static/js/main.0feb99c3.js"
   ]
 }
